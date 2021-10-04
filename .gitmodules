@@ -1,0 +1,3 @@
+[submodule "roles/zfs"]
+	path = roles/zfs
+	url = git@github.com:f-koehler/ansible-role-zfs.git
