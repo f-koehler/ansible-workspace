@@ -7,3 +7,6 @@
 [submodule "docker/ubuntu1804"]
 	path = docker/ubuntu1804
 	url = git@github.com:f-koehler/docker-ubuntu1804-ansible.git
+[submodule "roles/docker"]
+	path = roles/docker
+	url = git@github.com:f-koehler/ansible-role-docker.git
