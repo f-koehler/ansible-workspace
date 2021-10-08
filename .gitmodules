@@ -4,6 +4,12 @@
 [submodule "docker/ubuntu1804"]
 	 path = docker/ubuntu1804
 	 url = git@github.com:f-koehler/docker-ubuntu1804-ansible.git
+[submodule "playbooks/desktop"]
+	 path = playbooks/desktop
+	 url = git@github.com:f-koehler/ansible-playbook-desktop.git
+[submodule "playbooks/dotfiles"]
+	 path = playbooks/dotfiles
+	 url = git@github.com:f-koehler/dotfiles.git
 [submodule "roles/docker"]
 	 path = roles/docker
 	 url = git@github.com:f-koehler/ansible-role-docker.git
@@ -13,6 +19,3 @@
 [submodule "roles/zfs"]
 	 path = roles/zfs
 	 url = git@github.com:f-koehler/ansible-role-zfs.git
-[submodule "playbooks/dotfiles"]
-	path = playbooks/dotfiles
-	url = git@github.com:f-koehler/dotfiles.git
