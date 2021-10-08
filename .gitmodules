@@ -1,12 +1,12 @@
-[submodule "roles/zfs"]
-	path = roles/zfs
-	url = git@github.com:f-koehler/ansible-role-zfs.git
 [submodule "docker/archlinux"]
-	path = docker/archlinux
-	url = git@github.com:f-koehler/docker-archlinux-ansible.git
+	 path = docker/archlinux
+	 url = git@github.com:f-koehler/docker-archlinux-ansible.git
 [submodule "docker/ubuntu1804"]
-	path = docker/ubuntu1804
-	url = git@github.com:f-koehler/docker-ubuntu1804-ansible.git
+	 path = docker/ubuntu1804
+	 url = git@github.com:f-koehler/docker-ubuntu1804-ansible.git
 [submodule "roles/docker"]
-	path = roles/docker
-	url = git@github.com:f-koehler/ansible-role-docker.git
+	 path = roles/docker
+	 url = git@github.com:f-koehler/ansible-role-docker.git
+[submodule "roles/zfs"]
+	 path = roles/zfs
+	 url = git@github.com:f-koehler/ansible-role-zfs.git
