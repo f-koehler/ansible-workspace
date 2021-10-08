@@ -7,6 +7,9 @@
 [submodule "roles/docker"]
 	 path = roles/docker
 	 url = git@github.com:f-koehler/ansible-role-docker.git
+[submodule "roles/haveged"]
+	 path = roles/haveged
+	 url = git@github.com:f-koehler/ansible-role-haveged.git
 [submodule "roles/zfs"]
 	 path = roles/zfs
 	 url = git@github.com:f-koehler/ansible-role-zfs.git
