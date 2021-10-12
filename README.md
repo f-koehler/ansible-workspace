@@ -18,6 +18,14 @@
 [![Ansible Quality Score](https://img.shields.io/ansible/quality/56459)](https://galaxy.ansible.com/f_koehler/haveged)
 [![Ansible Role](https://img.shields.io/ansible/role/d/56459)](https://galaxy.ansible.com/f_koehler/haveged)
 
+### [sshd](https://github.com/f-koehler/ansible-role-sshd)
+
+[![CI](https://github.com/f-koehler/ansible-role-sshd/workflows/CI/badge.svg?event=push)](https://github.com/f-koehler/ansible-role-sshd/actions?query=workflow%3ACI)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/f-koehler/ansible-role-sshd/main.svg)](https://results.pre-commit.ci/latest/github/f-koehler/ansible-role-sshd/main)
+[![Ansible Role](https://img.shields.io/ansible/role/56511)](https://galaxy.ansible.com/f_koehler/sshd)
+[![Ansible Quality Score](https://img.shields.io/ansible/quality/56511)](https://galaxy.ansible.com/f_koehler/sshd)
+[![Ansible Role](https://img.shields.io/ansible/role/d/56511)](https://galaxy.ansible.com/f_koehler/sshd)
+
 ### [zfs](https://github.com/f-koehler/ansible-role-zfs)
 
 [![CI](https://github.com/f-koehler/ansible-role-zfs/workflows/CI/badge.svg?event=push)](https://github.com/f-koehler/ansible-role-zfs/actions?query=workflow%3ACI)
