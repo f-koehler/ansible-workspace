@@ -9,7 +9,7 @@ python = "^3.9"
 ansible-lint = "^5.2.0"
 ansible = "^4.6.0"
 docker = "^5.0.2"
-molecule = {extras = ["docker"], version = "^3.5.1"}
+molecule = {extras = ["docker"], version = "^3.5.2"}
 yamllint = "^1.26.3"
 
 [tool.poetry.dev-dependencies]
