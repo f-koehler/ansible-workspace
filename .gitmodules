@@ -25,3 +25,6 @@
 [submodule "roles/ansible-role-docker-1"]
 	path = roles/docker-geerlingguy
 	url = git@github.com:f-koehler/ansible-role-docker-1.git
+[submodule "playbooks/servicepi"]
+	path = playbooks/servicepi
+	url = git@github.com:f-koehler/playbook-servicepi.git
