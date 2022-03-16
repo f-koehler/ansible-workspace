@@ -6,7 +6,7 @@ authors = ["Fabian Köhler <fabian.koehler@protonmail.ch>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-ansible-lint = "^5.2.0"
+ansible-lint = "^6.0.0"
 ansible = "^5.0.0"
 docker = "^5.0.2"
 molecule = {extras = ["docker"], version = "^3.5.2"}
